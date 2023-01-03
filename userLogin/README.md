@@ -1,0 +1,1 @@
+Kullanıcı girişi kontrol uygulaması.
